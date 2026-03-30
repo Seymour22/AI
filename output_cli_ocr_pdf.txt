@@ -1,0 +1,122 @@
+uv run main.py
+
+Note: No command line parameters provided.
+Using default [directory_path]: ./pdfs
+To view usage instructions run with 'help' or '?'
+
+Starting review of 4 files...
+----------------------------------------
+
+
+Processing: AscentEvents_data-retention-policy.pdf
+
+
+[AscentEvents_data-retention-policy.pdf]:
+----------------------------------------
+Payroll records: 7 years after audit
+Supplier contracts: 7 years after contract is terminated
+Invoices: 7 years
+Cancelled checks: 7 years
+Bank deposit slips: 7 years
+Business expenses documents: 7 years
+Check registers/books: 7 years
+Property/asset inventories: 7 years
+Credit card receipts: 3 years
+Petty cash receipts/documents: 3 years
+Employee personal data: 7 years
+Live chat history: Records deleted after 1 year
+Call recordings: Automatically deleted after 6 months
+Inbox: All emails containing PII attachments deleted after 3 years
+Personal Network Drive: Any documents containing PII deleted after 3 years
+Google Drives, drop box: Any documents containing PII deleted after 3 years
+
+
+Processing: Attachment_0.pdf
+
+
+[Attachment_0.pdf]:
+----------------------------------------
+All data resulting from the project will be preserved for at least ___years (for example 10 years)
+
+Note: The specific number of years is left blank in the document as "___years" and "10 years" is only given as an example. The actual retention period must be specified by the user.
+
+
+Processing: 032704315676ImagePDF.pdf
+    -> Page 1: Scanned image detected. Running OCR...
+    -> Page 2: Scanned image detected. Running OCR...
+    -> Page 3: Scanned image detected. Running OCR...
+    -> Page 4: Scanned image detected. Running OCR...
+    -> Page 5: Scanned image detected. Running OCR...
+    -> Page 6: Scanned image detected. Running OCR...
+    -> Page 7: Scanned image detected. Running OCR...
+    -> Page 8: Scanned image detected. Running OCR...
+    -> Page 9: Scanned image detected. Running OCR...
+    -> Page 10: Scanned image detected. Running OCR...
+
+
+[032704315676ImagePDF.pdf]:
+----------------------------------------
+Payroll records: 7 years after audit
+Supplier contracts: 7 years after contract terminated
+Chart of Accounts: Permanent
+Fiscal Policies and Procedures: Permanent
+Permanent Audits: Permanent
+Financial statements: Permanent
+General Ledger: Permanent
+Investment records: / years
+Invoices: / years
+Cancelled checks: 7 years
+Bank deposit slips: / years
+Business expenses documents: / years
+Check registers/books: / years
+Property/asset inventories: / years
+Credit card receipts: 3 years
+Petty cash receipts/documents: 3 years
+Payroll input forms, wages/salary records, overtime/bonus payments: 7 years
+Payroll sheets, copies: 7 years
+Deleted by user: 9 months
+Records deleted after 1 year: 1 year
+Automatically deleted after 90 days: 90 days
+Retained whilst organisation remains a customer or deleted by user: until organisation is deleted
+All emails containing PII attachments: 3 years
+Reviewed quarterly, any documents containing PII: 3 years
+Automatically deleted after 6 months: 6 months
+
+
+Processing: British Society for Genetic Medicine.pdf
+
+
+[British Society for Genetic Medicine.pdf]:
+----------------------------------------
+Genetic family records: 30 years
+General health records: 3-8 years after last contact or death
+Mental health records: 20 years
+Obstetric records: 25 years
+Children's records: up to age 25 or 26 if treatment ceased at age 17
+Laboratory reports: 30 years
+Laboratory working documents: 5 years
+Final clinical laboratory reports: 30 years
+Pathology records: 30 years
+Primary care records: 10 years after death or indefinitely if electronic
+Subcategories of pathology records: 30 years
+Post-mortem records: 30 years
+Coroner's post-mortem reports: in line with specialty
+Genetic records (from Royal College of Pathologists): 30 years
+DNA and RNA samples: 30 years
+Machine outputs (Royal College of Pathologists): 5 years
+VCF/gVCF files: at least 5 years
+Genetic family records (from HTA/RCPath guidance): 30 years
+Pathology final outputs of analysis and interpretation: 30 years
+Bioinformatics workflow outputs: 5 years
+Diagnostic testing outputs: 5 years
+Genetic records (from Appendix Table 1): 30 years
+General practice records (paper-based): 10 years after death
+General practice records (electronic): indefinitely
+Mental health records (Northern Ireland/Scotland): 20 years after last contact or 3 years after death
+Obstetric records (Northern Ireland/Scotland): 25 years after last entry or update or in the case of death, where the patient has been pregnant or given birth in the 12 months preceding their death the record should be kept for 25 years
+Children's records (Northern Ireland/Scotland): up to 25th birthday or 26th if age 17 when treatment ended, or 8 years after last entry, or 8 years after death if death occurred before age 18. If the illness or death could have relevance to adult conditions or have genetic implications, seek clinical advice about longer retention
+Primary care records (England/Wales): 10 years after death or 100 years if patient does not return to practice, or indefinitely if electronic
+Primary care records (Scotland): 3 years after death, or 100 years if patient does not return to practice, or indefinitely if electronic
+
+
+Successfully exported 4 records to: document_retention_audit_20260327_132738.txt
